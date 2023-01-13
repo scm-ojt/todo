@@ -7,6 +7,4 @@
 
 ### Live
 
-```
 https://scm-ojt.github.io/todo
-```
